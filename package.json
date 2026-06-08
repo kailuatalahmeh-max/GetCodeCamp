@@ -8,7 +8,7 @@
   },
   "name": "my-todo-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "A project that helps you find out the weather conditions in your area today.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
