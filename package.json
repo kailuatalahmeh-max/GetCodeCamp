@@ -4,8 +4,7 @@
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "mongoose": "^9.6.3",
-    "@freecodecamp/example": "^1.2.13"
+    "mongoose": "^9.6.3"
   },
   "name": "my-todo-backend",
   "version": "1.0.0",
@@ -14,7 +13,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["freecodecamp","testProgect","backEndDevloper"],
+  "keywords": [
+    "freecodecamp",
+    "testProgect",
+    "backEndDevloper"
+  ],
   "author": "Mohammed",
   "license": "ISC",
   "type": "commonjs"
