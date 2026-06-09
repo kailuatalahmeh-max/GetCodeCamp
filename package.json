@@ -5,7 +5,7 @@
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "mongoose": "^9.6.3",
-    "@freecodecamp/example": "1.1.0"
+    "@freecodecamp/example": "1.2.13"
   },
   "name": "my-todo-backend",
   "version": "1.0.0",
